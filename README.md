@@ -72,7 +72,3 @@ The Next Car adalah sebuah contoh project MVC yang dibuat dengan tujuan pada kea
         }
 ```
  
-## Nama => Muhammad Rizko Munzal
-## Kelas => 19-IF-04
-## NIM   => 19.11.2847
->
